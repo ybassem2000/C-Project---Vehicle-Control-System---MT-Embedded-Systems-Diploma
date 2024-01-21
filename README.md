@@ -1,0 +1,2 @@
+# C-Project---Vehicle-Control-System---MT-Embedded-Systems-Diploma
+The provided code is a C program that simulates a vehicle system. It allows the user to interact with the system by turning the engine on or off, setting the traffic light color, and adjusting the room and engine temperatures. The program provides a menu for the user to select different options and displays the current state of the vehicle.
